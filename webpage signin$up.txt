@@ -1,0 +1,24 @@
+=======================Client ================================
+npm create vite@latest
+cd client
+npm install
+npm install axios react-icons react-router-dom react-spinners react-toastify styled-components sweetalert2 sweetalert2-react-content
+npm run dev
+----------------------------------------------------------------------------------------------------------------------------------------
+====================Server===================================
+npm init -y
+npm install bcrypt cors dotenv express express-validator jsonwebtoken mongoose nodemon
+npm start
+----------------------------------------------------------------------------------------------------------------------------------------
+=======================Database===========================================
+db Name: contactmsyt
+collection Name :users
+--------------------------------------------------------------------------
+
+For Run Program clint use : npm run dev
+For Run Program Server use : npm start
+****************************************************
+https://www.youtube.com/watch?v=FRHpUaADtT8 -> Part 1
+https://youtu.be/PN3rt-0k1is?si=RmfIh9bRICA94xhE -> Part 2
+***************************************************
+ShotCut :rafce -> normal format auto create
